@@ -1882,7 +1882,7 @@
 
     if-eqz v1, :cond_0
 
-    const-string v0, "NFANDROID2-PRV-RTD1319ATVENGINEERING-SZMTCX1LITE-22406"
+    const-string v0, "NFANDROID2-PRV-RTD1319ATVENGINEERING-SZMTCX1LITE-22406-"
 
     :cond_0
     return-object v0
